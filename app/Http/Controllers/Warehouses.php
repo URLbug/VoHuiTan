@@ -9,6 +9,8 @@ class Warehouses extends Controller
 {
     public function index(Request $request): JsonResponse
     {
+        $request['dateTo'] = null;
+
         return $this->getAll(
             $request,
             [\App\Models\Warehouse::class, 'warehouses'],
