@@ -132,6 +132,17 @@ ___
 ```
 ___
 
+## База данных
+___
+```
+DB_CONNECTION=mysql
+DB_HOST=b80r36iswmvhmmfn0bez-mysql.services.clever-cloud.com
+DB_PORT=3306
+DB_DATABASE=b80r36iswmvhmmfn0bez
+DB_USERNAME=uo2lgvablccv4od6
+DB_PASSWORD=GogVbrVF74QjYSj1ndFd
+```
+
 ## Разработчик
 
 <p align="center">
